@@ -1,16 +1,29 @@
 ### Hi there 👋
+## I'm Clodoaldo Brito
+- I live in Brazil, northeast :sunglasses::sunrise:
+- I have learned more about how to develop typescript and angular applications :sparkling_heart:
 
-<!--
-**CL10BRITO/CL10BRITO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
+<a href="https://www.linkedin.com/in/clodoaldo-neto-37b220190/" target="_blank">
+<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.youtube.com/channel/UCwGw3i915GbxamJZwTeKAnw" target="_blank">
+<img align="center" alt="diego-youtube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/cbzin95/" target="_blank">
+<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
+<a href="https://www.facebook.com/clodoaldoneto45/" target="_blank">
+<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+</a>
 
-Here are some ideas to get you started:
+## My Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android-kotlin/java" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg" alt="Python/django" width="40" height="40" style="max-width:100%;"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1cbzin-95&show_icons=true&theme=radical)
