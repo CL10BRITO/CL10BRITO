@@ -26,6 +26,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg" alt="Python/django" width="40" height="40" style="max-width:100%;"></img>
 
+
+
+## Analysis of repositories
 About my public repositories | About languages
 :---------: | :-------:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1cbzin-95&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbzin-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
