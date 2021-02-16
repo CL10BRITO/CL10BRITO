@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCwGw3i915GbxamJZwTeKAnw" target="_blank">
 <img align="center" alt="diego-youtube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/cbzin95/" target="_blank">
+<a href="https://www.instagram.com/cbzin_95/" target="_blank">
 <img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/clodoaldoneto45/" target="_blank">
