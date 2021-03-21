@@ -31,4 +31,4 @@
 ## Análise de repositórios  
 Sobre meus repositórios públicos | Sobre Linguagens e utilidades
 :---------: | :-------:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1cbzin-95&show_icons=true&theme=dark&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbzin-95&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1cbzin-95&show_icons=true&theme=default&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1cbzin-95&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
