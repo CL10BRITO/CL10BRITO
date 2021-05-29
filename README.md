@@ -2,8 +2,6 @@
 ## Eu me chamo Clodoaldo Brito
 - Eu moro aqui no Brazil, sou Nordestino :sunglasses::sunrise:
 - Venho praticando e aprendendo com foco no desenvolvimento utilizando node de back com typescript e Angular no front :sparkling_heart:
-- Cerveja :beer: , futebol :soccer: e boa comunicação :handshake: ja era pra ser skill de dev.
-
 ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/clodoaldo-neto-37b220190/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
