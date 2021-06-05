@@ -1,6 +1,6 @@
 ### Olá Dev, este é meu novo repositório em nuvem em janeiro de 2021.. 👋
 ## Eu me chamo Clodoaldo Brito
-- Eu moro aqui no Brasil, sou Nordestino :sunglasses::sunrise:
+- Nordestino :sunglasses::sunrise:
 - Venho praticando e aprendendo com foco no desenvolvimento utilizando node de back com typescript e Angular no front :sparkling_heart:
 ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/clodoaldo-neto-37b220190/" target="_blank">
